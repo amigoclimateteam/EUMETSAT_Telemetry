@@ -24,7 +24,7 @@ Python script implementing multivariate analysis across multiple satellite missi
 
 ## Input Data
 
-Input datasets are organized according to the telemetry data streams defined within **Task 1**. Preprocessing implemented in both scripts follows the methodology and workflow described in the corresponding **Task 1 report**. :contentReference[oaicite:0]{index=0}
+Input datasets are organized according to the telemetry data streams defined within **Task 1**. Preprocessing implemented in both scripts follows the methodology and workflow described in the corresponding **Task 1 report**.
 
 ## Documentation
 
